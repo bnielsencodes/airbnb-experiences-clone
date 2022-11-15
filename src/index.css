@@ -86,6 +86,7 @@ section {
 
 .card--star {
   height: 14px;
+  aria-label: none;
 }
 
 /* ADD */
