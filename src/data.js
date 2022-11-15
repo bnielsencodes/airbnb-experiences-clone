@@ -1,3 +1,4 @@
+// eslint-disable-next-line
 export default [
   {
     id: 1,
@@ -12,6 +13,7 @@ export default [
     },
     location: "Online",
     openSpots: 0,
+    alt: "Katie Zaferes at an Olympic event.",
   },
   {
     id: 2,
@@ -26,6 +28,7 @@ export default [
     },
     location: "Online",
     openSpots: 27,
+    alt: "A bride standing holding left arm in a lit hallway.",
   },
   {
     id: 3,
@@ -40,5 +43,6 @@ export default [
     },
     location: "Norway",
     openSpots: 3,
+    alt: "Green mountain bike propped on kickstand atop a grassy mountain.",
   },
 ];
